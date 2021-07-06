@@ -1,0 +1,7 @@
+@media screen and (max-width: 992px) {
+  .slick-arrow.slick-next:before,
+  .slick-arrow.slick-prev:before {
+    font-size: 22px;
+  }
+}
+/*# sourceMappingURL=my-style.css.map */
